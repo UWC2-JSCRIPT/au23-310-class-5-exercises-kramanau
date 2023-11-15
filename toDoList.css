@@ -40,6 +40,11 @@ li.done span {
   background-color: darkred;
 }
 
+.arrows {
+  background-color: grey;
+  color: black;
+}
+
 .add-item {
   background-color: darkturquoise;
 }
